@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "id": 0,
+      "name": "Carlos Santos",
+      "age": "35",
+      "email": "kaduinfo@gmail.com",
+      "phone": "71 999298550"
+    },
+    {
+      "id": 1,
+      "name": "Paloma Veneza",
+      "age": "33",
+      "email": "palomaveneza@hotmail.com",
+      "phone": "71 996402582"
+    },
+    {
+      "id": 2,
+      "name": "Aidee cristina",
+      "age": "61",
+      "email": "Aidee@hotmail.com",
+      "phone": "71 996402582"
+    },
+    {
+      "id": 3,
+      "name": "Barbara",
+      "age": "26",
+      "email": "barbara@hotmail.com",
+      "phone": "71 999655147"
+    }
+  ]
+}
